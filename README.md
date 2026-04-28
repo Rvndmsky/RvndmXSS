@@ -40,9 +40,9 @@ python3 rvndmxss.py -u "https://target.com/search?q=" -p payloads/custom.txt
 ## Result Preview
 > Put your screenshots inside `/images` folder then they will render here.
 
-<img src="images/result1.png" width="900">
+<img src="images/result.png" width="900">
 <br><br>
-<img src="images/result2.png" width="900">
+<img src="images/result_telegram.png" width="900">
 
 ---
 

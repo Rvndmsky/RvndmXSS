@@ -1,2 +1,0 @@
-<svg/onload=alert(1)>
-"><script>alert(document.domain)</script>
